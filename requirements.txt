@@ -1,0 +1,4 @@
+tqdm==4.47.0
+sentencepiece==0.1.91
+torch==1.5.0
+allennlp==0.9.0
